@@ -1,7 +1,7 @@
 # goit-markup-hw-01
-#HTML markup of the page layout according to the provided layout and the requirements below
+# HTML markup of the page layout according to the provided layout and the requirements below
 
-##Project requirements:
+## Project requirements:
 "A1" The main HTML file is called index.html.
 "A2" In the root of the project there are images folder with images.
 "A3" File names do not contain capital letters, Cyrillic, spaces and transliteration, only English letters and words.
@@ -10,7 +10,7 @@
 "A6" All bitmaps are optimized using squoosh.app.
 "A7" The code is written in accordance with the instructions.
 
-##Markup requirements:
+## Markup requirements:
 "B1" The layout of the Studio page is typed in the index.html file.
 "B2" Completed HTML markup of all layout elements.
 "B3" Tags are used according to their semantic content.
