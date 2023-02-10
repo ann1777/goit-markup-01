@@ -19,9 +19,9 @@
 * "B6" The logo in the header and footer are text links, not images.
 * "B7" The <nav> tag is used once per page - in the header.
 * "B8" Contacts in the header (email and phone) are outside the <nav> tag.
-* "B9" The "<h1>" tag is used once per page.
+* "B9" The h1 tag is used once per page.
 * "B10" The element with the text "Order Service" is a button with type="button".
-* "B11" Section headings are marked with the "<h2>" tag.
+* "B11" Section headings are marked with the h2 tag.
 * "B12" <img> tags have size attributes, at least width.
 * "B13" <img> tags have an alt attribute that is filled with a short description of what is shown in the image. The description is in the same language as the rest of the text content.
 * "B14" Images exported from layout in jpg format.
