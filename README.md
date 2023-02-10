@@ -25,4 +25,4 @@
 * "B12" <img> tags have size attributes, at least width.
 * "B13" <img> tags have an alt attribute that is filled with a short description of what is shown in the image. The description is in the same language as the rest of the text content.
 * "B14" Images exported from layout in jpg format.
-* "B15" Groups of elements of the same type are collected in <ul> lists.
+* "B15" Groups of elements of the same type are collected in ul lists.
